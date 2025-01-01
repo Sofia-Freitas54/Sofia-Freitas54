@@ -1,6 +1,6 @@
 <h1>Hi there, my name is Sofia Freitas 👋</h1>
 <ul>
-    <li> Estudante de ciências da computação 📖</li>
+    <li> Estudante de ciência da computação 📖</li>
     <li> Apaixonada por tecnologia 💻</li>
     <li> Desenvolvimento web 🌐</li>
     <br>
