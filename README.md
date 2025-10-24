@@ -2,7 +2,6 @@
 <ul>
     <li> Estudante de ciência da computação 📖</li>
     <li> Apaixonada por tecnologia 💻</li>
-    <br>
 </ul>
 <div style="display: inline_block">
 <!--
